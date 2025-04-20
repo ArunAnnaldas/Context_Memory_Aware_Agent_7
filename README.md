@@ -8,7 +8,7 @@ This project demonstrates a **memory-enabled AI assistant** using [LangChain](ht
 
 ---
 
-## 📚 Module: 4A — ConversationBufferMemory
+## 📚 ConversationBufferMemory
 
 ### 🎯 Goal:
 Build an agent that remembers previous inputs and uses them to respond intelligently in future prompts.
